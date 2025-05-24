@@ -14,14 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a passionate learner and aspiring web developer, currently diving into the world of HTML and CSS. My journey in tech has just begun, and I'm excited to learn, grow, and contribute to the community.
 
-Here's a quick summary about me:
+I'm a Python backend developer passionate about building scalable and efficient APIs using FastAPI. I'm currently learning how to develop real-world applications and improve my skills in database design, API architecture, and full-stack project structure.
 
-😊 Pronouns: he/him
-💡 Fun fact: I'm currently exploring the fascinating world of web development and design.
-🌱 I’m currently learning HTML and CSS.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💡 I’m interested in:
+- Building clean and well-documented backend systems
+- Learning DevOps basics (Docker, deployment, CI/CD)
+- Mobile app development using Flutter
+- Becoming proficient in test-driven development (TDD)
+
+📚 I’m currently learning:
+- FastAPI
+- PostgreSQL & MongoDB
+- Git, GitHub, and collaborative workflows
+
+🚀 Goals:
+- Contribute to open-source projects
+- Build full-stack apps with user authentication, real-time features, and API integration
+- Build cross-platform mobile apps with Flutter
+- Understand how to scale and secure backend systems
+
+Feel free to connect or collaborate. I’m always open to learning and growing with the community.
+
 
 
 
